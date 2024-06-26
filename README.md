@@ -1,3 +1,4 @@
+
 ### rn-assignment5-11261712s:
 
 # React Native Banking App
@@ -81,6 +82,11 @@ To run this application locally, follow these steps:
    npx react-native run-android
    ```
    ## Screenshots
+
+![banking4](https://github.com/OFORIMAJEEDNYAME/rn-assignment5-11261712/assets/170121601/d4d03359-5f7b-4631-ba84-aa5a70af5a8e)
+![banking3](https://github.com/OFORIMAJEEDNYAME/rn-assignment5-11261712/assets/170121601/e247d897-fb2d-4894-8927-d3cd2ae71a2b)
+![banking2](https://github.com/OFORIMAJEEDNYAME/rn-assignment5-11261712/assets/170121601/ca1440a5-3209-4681-9436-ec55c74bc0af)
+![banking1](https://github.com/OFORIMAJEEDNYAME/rn-assignment5-11261712/assets/170121601/e8e4eb5b-246a-426e-b20f-b8ac925f8be5)
    
 
 
